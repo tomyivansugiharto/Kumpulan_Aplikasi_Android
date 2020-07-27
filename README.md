@@ -1,4 +1,4 @@
-# Kumpulan_Aplikasi_Android
+# Kumpulan Aplikasi Android
 Bahasa yang digunakan berupa bahasa Java, Kotlin, dan Python.
 
 # Info
